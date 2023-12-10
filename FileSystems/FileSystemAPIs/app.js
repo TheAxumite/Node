@@ -24,7 +24,7 @@
 
 const fs = require("fs");
 
-fs.copyFileSync("tsxt.txt", "copied-sync.txt");
+fs.copyFileSync("text.txt", "copied-sync.txt");
 
 const numbers = [1, 2, 3, 4, 5];
 
